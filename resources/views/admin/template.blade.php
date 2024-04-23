@@ -836,3 +836,5 @@
     </div>
   </body>
 </html>
+
+@stack('custom-script')
